@@ -2,9 +2,9 @@
 
 A modern, responsive website for AC ServiceCare, providing professional air conditioner repair, installation, and maintenance services in Delhi.
 
-## 🏢 About FAC Enterprises
+## 🏢 About FAC Service
 
-FAC Enterprises specializes in comprehensive AC services including:
+FAC Service specializes in comprehensive AC services including:
 - AC Installation
 - AC Repair & Maintenance
 - AC Rental Services
@@ -121,12 +121,12 @@ npm run build
 
 ## 📄 License
 
-This project is proprietary to FAC Enterprises.
+This project is proprietary to FAC Service.
 
 ## 🤝 Contributing
 
-This is a private project for FAC Enterprises. For any issues or suggestions, please contact the development team.
+This is a private project for FAC Service. For any issues or suggestions, please contact the development team.
 
 ---
 
-**FAC Enterprises** - Professional AC Services in Delhi/NCR
+**FAC Service** - Professional AC Services in Delhi/NCR
